@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Junha Cho</h1>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archedu-junhacho" alt="archedu-junhacho" /></a> </p>
 
 <h2 align="center">\ (●'◡'●)  /
 
@@ -33,8 +32,3 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 </br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archedu-junhacho" alt="archedu-junhacho" /></a> </p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=archedu-junhacho&label=Profile%20views&color=0e75b6&style=flat" alt="archedu-junhacho" /> </p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archedu-junhacho&" alt="archedu-junhacho" /></p> -->
