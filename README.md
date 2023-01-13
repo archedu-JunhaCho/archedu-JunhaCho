@@ -1,16 +1,43 @@
 ![타이틀 이미지](https://user-images.githubusercontent.com/122509605/212225967-a57f52cc-b3d2-4b3f-aed4-640f76516cbb.png)
+![소개페이지 상단]()
+	
+<h1 align="center">Hi 👋, I'm Junha Cho</h1>
+<h3 align="center">********************************** \ (●'◡'●)  /   ************************************
 
-<!--
-**archedu-JunhaCho/archedu-JunhaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*********************************   Let's go SSAFY~!   ******************************</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archedu-junhacho" alt="archedu-junhacho" /></a> </p>
+</br>
+
+- 🔭 I’m currently working on **!!Unknowne!!**
+
+- 🌱 I’m currently learning **Arcitecture / Lifelong Education**
+
+- 🤝 I’m looking for help with **learning Python**
+
+- 👨‍💻 All of my projects are available at [https://ash-asparagus-1a8.notion.site/Portfolio-f03dcd567ff440d98a1eabbea17681ee](https://ash-asparagus-1a8.notion.site/Portfolio-f03dcd567ff440d98a1eabbea17681ee)
+
+- 💬 Ask me about **metaverse**
+
+- 📫 How to reach me **whwnsgk830@gmail.com**
+
+</br>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/archedu-junhacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="archedu-junhacho" height="30" width="40" /></a>
+<a href="https://instagram.com/archedu-junhacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="archedu-junhacho" height="30" width="40" /></a>
+</br>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+</br>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=archedu-junhacho&label=Profile%20views&color=0e75b6&style=flat" alt="archedu-junhacho" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archedu-junhacho&" alt="archedu-junhacho" /></p>
