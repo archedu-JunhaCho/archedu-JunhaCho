@@ -1,4 +1,4 @@
-### Hi there 👋
+![타이틀 이미지](https://user-images.githubusercontent.com/122509605/212225967-a57f52cc-b3d2-4b3f-aed4-640f76516cbb.png)
 
 <!--
 **archedu-JunhaCho/archedu-JunhaCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
