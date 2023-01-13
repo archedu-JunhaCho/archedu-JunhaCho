@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **:  !!Unknown!!**
 
-- 🌱 I’m currently learning **:  Arcitecture / Lifelong Education**
+- 🌱 I’m currently learning **:  Architecture / Lifelong Education**
 
 - 🤝 I’m looking for help with **:  learning Python**
 
