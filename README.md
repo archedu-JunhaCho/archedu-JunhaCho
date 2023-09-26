@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Junha Cho</h1>
+<h2 align="center">Front-end : Developing immersive web</h2>
 
-<h2 align="center">\ (●'◡'●)  /
-
- Let's go SSAFY~!</h2> 
- 
 </br>
 
 
-- 🔭 I’m currently working on **:  !!Unknown!!**
+- 🔭 I’m currently working on **:  SSAFY**
 
-- 🌱 I’m currently learning **:  Architecture / Lifelong Education**
+- 🌱 I’m currently learning **:  Programming / Architecture / Lifelong Education**
 
-- 🤝 I’m looking for help with **:  learning Python**
+- 🤝 I’m looking for job using **:  React JavaScript Python**
 
 - 👨‍💻 All of my projects are available at [https://ash-asparagus-1a8.notion.site/Portfolio-f03dcd567ff440d98a1eabbea17681ee](https://ash-asparagus-1a8.notion.site/Portfolio-f03dcd567ff440d98a1eabbea17681ee)
 
-- 💬 Ask me about **:  metaverse**
+- 💬 Ask me about **:  Metaverse**
 
 - 📫 How to reach me **:  whwnsgk830@gmail.com**
 
